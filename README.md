@@ -1,2 +1,2 @@
-# aEstrelaAlgoritmo
-Implementation of the A Star (A*) algorithm
+# A Star Algorithm
+Implementations of the A Star (A*) algorithm
